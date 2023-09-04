@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "courseName": "IFT 101",
+        "image": "📚",
+        "from": "Information Technology",
+        "instructor": "David Alderman, Tatiana Walsh",
+        "credits": "4",
+        "description": "Introduction to Information Technology"
+    },
+    {
+        "id": 1,
+        "courseName": "IFT 601",
+        "image": "♒",
+        "from": "Management",
+        "instructor": "David Alderman, Tatiana Walsh",
+        "credits": "3",
+        "description": "International Culture"
+    },
+    {
+        "id": 2,
+        "courseName": "IFT 201",
+        "image": "🖥️",
+        "from": "Information Technology",
+        "instructor": "David Alderman, Tatiana Walsh",
+        "credits": "4",
+        "description": "Introduction to Information Technology"
+    },
+    {
+        "id": 3,
+        "courseName": "IFT 201",
+        "image": "🖥️",
+        "from": "Arts",
+        "instructor": "David Alderman, Tatiana Walsh",
+        "credits": "4",
+        "description": "Introduction to Information Technology"
+    },
+    {
+        "id": 4,
+        "courseName": "IFT 201",
+        "image": "🖥️",
+        "from": "Information Technology",
+        "instructor": "David Alderman, Tatiana Walsh",
+        "credits": "4",
+        "description": "Introduction to Information Technology"
+    }
+]
